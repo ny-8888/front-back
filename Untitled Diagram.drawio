@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T05:05:15.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YH3gC7lpc5KY4zfaNPMe" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T05:31:09.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="oCqJIAWhQaSaUESMMql7" version="13.6.9" type="github">
   <diagram id="T8AR-Nbdc-Vkwgvff9if" name="Page-1">
     <mxGraphModel dx="839" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="ENgVsPBk0OFofMp8MSjg-6" value="django" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENgVsPBk0OFofMp8MSjg-13" value="Dimage&lt;br&gt;ubuntu&amp;nbsp;&lt;br&gt;or&lt;br&gt;python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
